@@ -3,7 +3,9 @@
 Game depending on AI algorithms 
 
 - interface :
+  
  ![11](https://github.com/rowannasser/connect4_AI/assets/78316754/d90be06a-07ff-41a7-a268-e62cd32c7d06)
+
 
 
 - game :
